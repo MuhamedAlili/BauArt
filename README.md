@@ -57,5 +57,5 @@ Username: admin
 Password: bauart2026
 ```
 
-This is client-side only (no real auth) — fine for a content demo, but replace it
+This is client-side only (no real auth) - fine for a content demo, but replace it
 with a real backend/auth check before handling anything sensitive.
